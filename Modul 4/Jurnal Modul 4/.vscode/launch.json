@@ -1,0 +1,33 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch coba",
+      "request": "launch",
+      "mainClass": "coba",
+      "projectName": "Jurnal Modul 4_ac9d9319"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "d:\\Dunia Perkuliahan\\Semester 3\\2. Algo struktur data\\z. Praktikum\\Modul 4\\Jurnal Modul 4",
+      "environment": [],
+      "program": "d:\\Dunia Perkuliahan\\Semester 3\\2. Algo struktur data\\z. Praktikum\\Modul 4\\Jurnal Modul 4\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "externalConsole": false,
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

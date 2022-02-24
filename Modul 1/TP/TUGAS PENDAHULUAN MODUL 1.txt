@@ -1,0 +1,11 @@
+==================================== TUGAS PENDAHULUAN MODUL 1  ==========================================
+
+1. Jelaskan apa yang dimaksud dengan single linked list dan double linked list (10)
+2. Sebutkan dan jelaskan operasi-operasi dasar yang ada pada single linked list dan double linked list (15)
+3. Sebutkan dan jelaskan perbedaan antara double linked list dan single linked list (10)
+4. Representasikan dalam bentuk gambar salah satu operasi yang ada pada single linked list dan double linked list (10)
+5. Jelaskan yang dimaksud dengan stack dan queue, beserta dengan contoh representasi datanya (10)
+6. Jelaskan perbedaan antara stack dan queue (10)
+7. Sebutkan dan jelaskan operasi-operasi dasar pada stack dan queue (15)
+8. Sebutkan dan jelaskan 3 notasi aritmatika pada struktur data (PreFix, InFix, PostFix) beserta dengan contoh dari representasinya (20)
+
